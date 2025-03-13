@@ -3,23 +3,23 @@
 The HR Analytics Dashboard is an interactive Power BI report designed to provide key insights into workforce statistics, job levels, promotions, employee satisfaction, and overtime trends. It helps HR teams make data-driven decisions regarding employee retention, job satisfaction, and workforce planning.
 
 ## Features
-**Employee Demographics –** Provides an overview of total employees, gender distribution, and workforce composition.
+1. **Employee Demographics –** Provides an overview of total employees, gender distribution, and workforce composition.
 
-**Workplace Proximity –** Categorizes employees based on their commuting distance, helping to assess potential commuting challenges.
+2. **Workplace Proximity –** Categorizes employees based on their commuting distance, helping to assess potential commuting challenges.
 
-**Job Levels & Career Progression –** Displays the distribution of employees across different job levels and tracks their years in the current role.
+3. **Job Levels & Career Progression –** Displays the distribution of employees across different job levels and tracks their years in the current role.
 
-**Promotion Analysis –** Identifies employees due for promotion, aiding in workforce planning and career development.
+4. **Promotion Analysis –** Identifies employees due for promotion, aiding in workforce planning and career development.
 
-**Retention & Attrition –** Highlights employees on service versus those retrenched, providing insights into workforce stability.
+5. **Retention & Attrition –** Highlights employees on service versus those retrenched, providing insights into workforce stability.
 
-**Overtime & Workload –** Shows overtime trends and their correlation with employee job satisfaction.
+6. **Overtime & Workload –** Shows overtime trends and their correlation with employee job satisfaction.
 
-**Job Satisfaction & Performance –** Assesses employee satisfaction levels and identifies areas that may need HR intervention.
+7. **Job Satisfaction & Performance –** Assesses employee satisfaction levels and identifies areas that may need HR intervention.
 
-**Department-Wise Insights –** Breaks down retrenchment and promotion trends by department, helping HR teams focus on critical areas.
+8. **Department-Wise Insights –** Breaks down retrenchment and promotion trends by department, helping HR teams focus on critical areas.
 
-**Salary & Experience Trends –** Displays employee income distribution and tenure in the organization.
+9. **Salary & Experience Trends –** Displays employee income distribution and tenure in the organization.
 
 ## Tools & Technologies
 Power BI Desktop (for building dashboards)
