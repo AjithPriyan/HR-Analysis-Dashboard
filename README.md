@@ -31,9 +31,9 @@ DAX (Data Analysis Expressions) (for calculated measures)
 Excel (for data preprocessing)
 
 ## Insights
-Employees in Sales & R&D have the highest retrenchment and promotion rates.
-Majority of employees in Job Level 1 & 2 may require career progression planning.
-A high percentage of employees have low job satisfaction, requiring HR engagement.
-Employees staying in the same role for long periods may indicate career stagnation risks.
+- Employees in Sales & R&D have the highest retrenchment and promotion rates.
+- Majority of employees in Job Level 1 & 2 may require career progression planning.
+- A high percentage of employees have low job satisfaction, requiring HR engagement.
+- Employees staying in the same role for long periods may indicate career stagnation risks.
 ## Dashboard Preview
 https://github.com/AjithPriyan/Sales-Dashboard/blob/main/Screenshot.png
