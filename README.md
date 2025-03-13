@@ -36,4 +36,9 @@ Excel (for data preprocessing)
 - A high percentage of employees have low job satisfaction, requiring HR engagement.
 - Employees staying in the same role for long periods may indicate career stagnation risks.
 ## Dashboard Preview
-https://github.com/AjithPriyan/Sales-Dashboard/blob/main/Screenshot.png
+![Screenshot-Home](https://github.com/user-attachments/assets/c23787c0-c101-4921-ab39-3c6d3c740437)
+![Screenshot-Action](https://github.com/user-attachments/assets/31d3d626-3fe6-4e47-84b6-116b7aae9ffa)
+![Screenshot-Details](https://github.com/user-attachments/assets/2ff0b3b1-1fc2-4dd2-8b0f-24313230f64e)
+
+
+
